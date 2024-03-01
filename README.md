@@ -10,7 +10,7 @@ This Chrome extension removes YouTube Doodles from the homepage, providing a cle
 
 **Installation:**
 
-1. **Download the ZIP file:** Click the "Code" button and then the "Download ZIP" button to download the entire repository as a ZIP file.
+1. **Download the ZIP file:** Click on the "Releases" tab to the right and download the latest release.
 2. **Extract the ZIP file:** Extract the downloaded ZIP file to your local machine.
 3. **Open Chrome extensions:** Navigate to `chrome://extensions/` in your Chrome browser.
 4. **Enable "Developer mode":** Toggle on "Developer mode" in the top right corner.
