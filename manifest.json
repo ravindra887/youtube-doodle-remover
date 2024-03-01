@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Remove YouTube Doodles",
+  "version": "1.0",
+  "description": "Removes YouTube Doodles for a cleaner homepage.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
